@@ -1,21 +1,15 @@
 # Advent of Agents Copilot Agent 🎄
 
-Advent of Agents is a **Proof of Concept Agent** built in Copilot Studio Lite designed to provide users with an advent calendar of Copilot agent ideas to build each day during December.
+'Advent of Agents' is an built in Microsoft 365 Copilot Agent Builder designed to provide users with an advent calendar of Copilot agent ideas to build each day during December.
 
-It acts like a daily inspiration guide, helping users explore and learn about building different types of Copilot agents throughout the advent season.
+It acts like a daily inspiration guide, helping users explore and learn about building different types of Copilot agents throughout the festive season.
 
-In its current iteration it helps you explore:
+In it's current iteration it helps you explore:
 - **Daily agent ideas** - A new agent concept revealed each day of advent
 - **Step-by-step guidance** - Instructions on how to build each suggested agent
 - **Use case inspiration** - Real-world scenarios where each agent would be valuable
 - **Skill building** - Progressive complexity to build your agent-building skills
 
-Future iterations will bring:
-- **Customizable calendars** - Create your own advent themes
-- **Community challenges** - Collaborative agent building activities
-- **Template library** - Starter templates for each day's agent
-
-**Note - Whilst this is a Copilot Studio Lite agent, it can equally be built in Copilot Studio and rolled out across your Organization.**
 
 This repository contains **setup documentation and instructions** for building the agent in your own Copilot environment.  
 
