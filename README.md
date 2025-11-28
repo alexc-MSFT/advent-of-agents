@@ -42,7 +42,7 @@ The included advent calendar ideas are for Agent Builder only and do not cover C
 
 - **Name**: Advent of Agents
 - **Description**: Unwrap 24 days of Copilot creativity! Each door reveals a festive agent idea to spark innovation and sharpen your skills. From knowledge grounding to document and image generation, it’s the perfect blend of holiday cheer and practical Copilot know‑how.
-- **Icon**: Upload the provided icon file and choose an accent color if desired.
+- **Icon**: Upload the provided icon file ([Icon.png](Icon.png)) and choose an accent color if desired.
 
 3. Copy the [Agent Instructions](Instructions.md) and paste these into your agent.
 4. Configure the following 'Suggested prompts' (feel free to adjust to your needs):
