@@ -1,5 +1,7 @@
 # Advent of Agents Copilot Agent 🎄
 
+<img src="https://github.com/alexc-MSFT/advent-of-agents/blob/main/banner.jpeg?raw=true" alt="Banner" style="max-width:100%; height:auto;">
+
 'Advent of Agents' is an built in Microsoft 365 Copilot Agent Builder designed to provide users with an advent calendar of Copilot agent ideas to build each day during December.
 
 It acts like a daily inspiration guide, helping users explore and learn about building different types of Copilot agents throughout the festive season, with the ultimate aim of upskilling users and increasing the adoption of agents within your organization.
